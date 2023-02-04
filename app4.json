@@ -20,10 +20,10 @@
     "inter_active": false,
     "reward_active": true,
     "native_active": true,
-    "banner": "ca-app-pub-3940256099942544/6300978111",
-    "reward_admob": "ca-app-pub-3940256099942544/5224354917",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "native": "ca-app-pub-3940256099942544/2247696110"
+    "banner": "ca-app-pub-3940256099942544\/6300978111",
+    "reward_admob": "ca-app-pub-3940256099942544\/5224354917",
+    "interstitial": "ca-app-pub-3940256099942544\/1033173712",
+    "native": "ca-app-pub-3940256099942544\/2247696110"
   },
   "unity": {
     "Banner_active": false,
@@ -33,10 +33,10 @@
     "banner": "Banner_Android",
     "interstitial": "Interstitial_Android"
   },
-"webview": {
+  "webview": {
     "active": true,
-    "message":"to continue",
+    "message": "to continue",
     "timeToShowReward": 120000,
-    "url": "https://poki.com/en/scary"
+    "url": "https:\/\/poki.com\/en\/scary"
   }
 }
