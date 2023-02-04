@@ -36,7 +36,7 @@
   "webview": {
     "active": true,
     "message": "to continue",
-    "timeToShowReward": 120000,
+    "timeToShowReward": 10000,
     "url": "https:\/\/poki.com\/en\/scary"
   }
 }
