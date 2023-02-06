@@ -2,13 +2,13 @@
   "iron": {
     "Banner_active": false,
     "inter_active": false,
-    "reward_active": false,
+    "reward_active": true,
     "appkey": "15ed3e64d"
   },
   "facebook": {
     "Banner_active": false,
     "inter_active": false,
-    "reward_active": false,
+    "reward_active": true,
     "native_active": false,
     "banner": "451506216739862_453503866540097",
     "interstitial": "451506216739862_453503919873425",
@@ -21,7 +21,7 @@
     "reward_active": true,
     "native_active": true,
     "banner": "ca-app-pub-3940256099942544\/6300978111",
-    "reward_admob": "ca-app-pub-3940256099942544\/52243549175",
+    "reward_admob": "ca-app-pub-3940256099942544\/5224354917",
     "interstitial": "ca-app-pub-3940256099942544\/1033173712",
     "native": "ca-app-pub-3940256099942544\/2247696110"
   },
@@ -36,7 +36,7 @@
   "webview": {
     "active": true,
     "message": "Watch a video ad for 15 min of ad-free experience. Support our app!",
-    "timeToShowReward": 10000,
+    "timeToShowReward": 30000,
     "url": "https:\/\/poki.com\/en\/scary"
   }
 }
