@@ -18,7 +18,7 @@
   "admob": {
     "Banner_active": true,
     "inter_active": true,
-    "reward_active": true,
+    "reward_active": false,
     "native_active": true,
     "banner": "ca-app-pub-3940256099942544\/6300978111",
     "reward_admob": "ca-app-pub-3940256099942544\/5224354917",
