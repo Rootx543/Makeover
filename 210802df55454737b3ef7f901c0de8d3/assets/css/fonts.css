@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Alphakind';
+    src: url('../fonts/Alphakind.ttf'),
+        url('../fonts/Alphakind.woff')                format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ArbuckleFat';
+    src: url('../fonts/ArbuckleFat.otf'),
+        url('../fonts/ArbuckleFat.woff');
+    font-weight: normal;
+    font-style: normal;
+}
